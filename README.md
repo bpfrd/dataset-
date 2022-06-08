@@ -2,3 +2,5 @@
 
 
 manifold-s0.3.xyz can be visualized by v_sim using the config file provided. It can be seperated into structures using the script (script1.sh) provided. 
+
+train & validation sets are in Bohr but all manifold structures are in Angstroem.
